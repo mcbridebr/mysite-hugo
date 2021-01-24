@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mcbridebr.github.io/mysite-hugo/about/</loc>
+    <lastmod>2021-01-24T17:49:49-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mcbridebr.github.io/mysite-hugo/</loc>
     <lastmod>2021-01-24T13:50:11-05:00</lastmod>
   </url>
