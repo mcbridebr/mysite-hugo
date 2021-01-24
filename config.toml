@@ -1,4 +1,5 @@
 baseURL = "https://mcbridebr.github.io/mysite-hugo/"
+#baseURL = ""
 languageCode = "en"
 title = "Brandon McBride"
 theme = "hugo-initio"
