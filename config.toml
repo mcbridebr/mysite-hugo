@@ -2,7 +2,7 @@ baseURL = "https://mcbridebr.github.io/"
 languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
-#publishDir = "docs"
+publishDir = "docs"
 
 [params]
     name = "Brandon McBride"
