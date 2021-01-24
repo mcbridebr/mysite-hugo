@@ -1,6 +1,6 @@
-baseURL = "https://mcbridebr.github.io/"
+baseURL = "https://mcbridebr.github.io/mysite-hugo/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Brandon McBride"
 theme = "hugo-initio"
 publishDir = "docs"
 
