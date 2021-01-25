@@ -1,5 +1,5 @@
 #baseURL = "https://mcbridebr.github.io/mysite-hugo/"
-baseURL = "https://www.mythicalbeard.dev"
+baseURL = "https://www.mythicalbeard.dev/mysite-hugo"
 languageCode = "en"
 title = "Brandon McBride"
 theme = "hugo-initio"
