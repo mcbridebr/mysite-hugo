@@ -1,5 +1,5 @@
-baseURL = "https://mcbridebr.github.io/mysite-hugo/"
-#baseURL = ""
+#baseURL = "https://mcbridebr.github.io/mysite-hugo/"
+baseURL = "https://www.mythicalbeard.dev"
 languageCode = "en"
 title = "Brandon McBride"
 theme = "hugo-initio"
@@ -37,6 +37,10 @@ publishDir = "docs"
     name = "blog"
     url = "/post/"
     weight = 5
+[[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = 10
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
