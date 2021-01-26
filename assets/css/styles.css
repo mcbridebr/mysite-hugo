@@ -224,7 +224,7 @@ a:hover {
   background-color: #f4f4f4;
   background-position: top center;
   background-size: cover;
-  color: #7C7C7C;
+  color: #eeeeee;
   padding: 30px 0 35px 0;
 }
 
@@ -253,24 +253,25 @@ a:hover {
   font-family: Alice, Georgia, serif;
   font-size: 49px;
   font-size: 3.0625rem;
+  color: #eeeeee;
 }
 #head .title a {
   text-decoration: none;
-  color: #333333;
+  color: #ececec;
 }
 #head .tagline {
   display: block;
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #7C7C7C;
+  color: #eeeeee;
   margin: 5px 0 0;
 }
 #head .tagline b {
   font-weight: normal;
 }
 #head .tagline a {
-  color: #5E5E5E;
+  color: #eeeeee;
 }
 .home #head {
   padding: 90px 0;

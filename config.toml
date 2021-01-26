@@ -1,7 +1,4 @@
-#baseURL = "https://mcbridebr.github.io/mysite-hugo/"
 baseURL = "https://mythicalbeard.dev/"
-#baseURL = "https://www.mythicalbeard.dev/mysite-hugo/"
-#baseURL = ""
 languageCode = "en"
 title = "Brandon McBride"
 theme = "hugo-initio"
@@ -12,23 +9,23 @@ publishDir = "docs"
     description = "DevOps Engineer | Husband | Father"
     email = "mcbridebr@gmail.com"
     year = 2021
-    avatar = "images/guy.jpg"
+    avatar = "images/guy1.jpg"
     avatarclass = "circle"
     background = ""
-    banner = "images/bg_head.jpg"
+    banner = "images/bg_head.png"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
     author = "Brandon McBride"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = false
+    showRecentWorks = true
     showDownloads = false
     showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
-    footerEnableTextWidget = true
+    footerEnableTextWidget = false
     footerEnableFormWidget = true
 
 [[menu.main]]
