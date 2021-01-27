@@ -6,7 +6,7 @@ publishDir = "docs"
 
 [params]
     name = "Brandon McBride"
-    description = "DevOps Engineer- Husband - Dad"
+    description = "DevOps Engineer > linux|automation|security"
     email = ""
     year = 2021
     avatar = "images/guy1.jpg"
@@ -36,10 +36,6 @@ publishDir = "docs"
     name = "blog"
     url = "/post/"
     weight = 5
-[[menu.main]]
-    name = "about"
-    url = "/about/"
-    weight = 10
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
