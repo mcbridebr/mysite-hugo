@@ -3,13 +3,14 @@ languageCode = "en"
 title = "Brandon McBride"
 theme = "hugo-initio"
 publishDir = "docs"
+custom_css = "assets/css/custom.css"
 
 [params]
     name = "Brandon McBride"
     description = "DevOps Engineer > linux|automation|security"
     email = ""
     year = 2021
-    avatar = "images/guy1.jpg"
+    avatar = "images/guy.png"
     avatarclass = "circle"
     background = ""
     banner = "images/bg_head.png"

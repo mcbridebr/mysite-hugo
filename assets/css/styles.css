@@ -514,6 +514,17 @@ img {
   color: #000000;
   background: none;
 }
+img[src*='#left'] {
+  float: left;
+}
+img[src*='#right'] {
+  float: right;
+  padding-left: 5%;
+}
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}
 /*********************************************************************
 
 
