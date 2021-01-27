@@ -13,47 +13,43 @@
       <pubDate>Tue, 26 Jan 2021 18:10:12 -0500</pubDate>
       
       <guid>https://mythicalbeard.dev/home/resume/resume/</guid>
-      <description>If you are a potential employer or just interested in my qualifications, you can get a copy or my resume here. If you have any questions please email me!</description>
+      <description>If you are a potential employer or just interested in my qualifications, you can get a copy of my resume here. It is in PDF format for compatibility purposes and to preserve formatting. If you need it in a different format, please email me.</description>
     </item>
     
     <item>
-      <title>My Resume</title>
-      <link>https://mythicalbeard.dev/home/services/myresume/</link>
+      <title>About</title>
+      <link>https://mythicalbeard.dev/home/me/about/</link>
       <pubDate>Tue, 26 Jan 2021 17:18:53 -0500</pubDate>
       
-      <guid>https://mythicalbeard.dev/home/services/myresume/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;Here you can get a copy of my resume&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://mythicalbeard.dev/home/me/about/</guid>
+      <description>&lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Me At a Glance</title>
-      <link>https://mythicalbeard.dev/home/services/ataglance/</link>
+      <title>Skills</title>
+      <link>https://mythicalbeard.dev/home/me/skills/</link>
       <pubDate>Tue, 26 Jan 2021 17:22:35 -0500</pubDate>
       
-      <guid>https://mythicalbeard.dev/home/services/ataglance/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;Summary of skillsets and interests&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://mythicalbeard.dev/home/me/skills/</guid>
+      <description>&lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Current</title>
-      <link>https://mythicalbeard.dev/home/services/current/</link>
+      <title>Experience</title>
+      <link>https://mythicalbeard.dev/home/me/experience/</link>
       <pubDate>Tue, 26 Jan 2021 17:22:54 -0500</pubDate>
       
-      <guid>https://mythicalbeard.dev/home/services/current/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;Things I am working on in spare time&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://mythicalbeard.dev/home/me/experience/</guid>
+      <description>&lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Hobbies</title>
-      <link>https://mythicalbeard.dev/home/services/hobbies/</link>
+      <title>Contact</title>
+      <link>https://mythicalbeard.dev/home/me/contact/</link>
       <pubDate>Tue, 26 Jan 2021 17:23:39 -0500</pubDate>
       
-      <guid>https://mythicalbeard.dev/home/services/hobbies/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;My hobbies and interests&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://mythicalbeard.dev/home/me/contact/</guid>
+      <description>&lt;hr&gt;</description>
     </item>
     
     <item>
@@ -63,15 +59,6 @@
       
       <guid>https://mythicalbeard.dev/home/subheader/</guid>
       <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://mythicalbeard.dev/about/</link>
-      <pubDate>Sun, 24 Jan 2021 17:49:49 -0500</pubDate>
-      
-      <guid>https://mythicalbeard.dev/about/</guid>
-      <description>This is an about page.</description>
     </item>
     
     <item>
