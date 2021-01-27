@@ -1,7 +1,5 @@
 <footer id="footer">
-
-		<div class="container">
-
+	<div class="container">
 		<div class="row">
 			{{ if .Site.Params.footerEnableContact }}
 			<div class="col-md-3 widget">
@@ -84,6 +82,8 @@
 	</div>
 </footer>
 
+
+
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
@@ -92,3 +92,12 @@
 {{ $html5shiv := resources.Get "js/html5shiv.js" }}
 {{ $js := (slice $template $html5shiv | resources.Concat "js/bundle.js") | resources.Minify | resources.Fingerprint "sha512" }}
 <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+
+{{ if .Site.Params.disqus -}}
+<script id="dsq-count-scr" src="//{{ .Site.Params.disqus.site }}/count.js" async></script>
+{{ end -}}
+{{ if .Site.Params.google.analytics -}}
+{{ partial "footer/analyticstracking.html" . }}
+{{ end -}}
+</body>
+</html>

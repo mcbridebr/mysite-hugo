@@ -6,8 +6,8 @@ publishDir = "docs"
 
 [params]
     name = "Brandon McBride"
-    description = "DevOps Engineer | Husband | Father"
-    email = "mcbridebr@gmail.com"
+    description = "DevOps Engineer- Husband - Dad"
+    email = ""
     year = 2021
     avatar = "images/guy1.jpg"
     avatarclass = "circle"
@@ -19,9 +19,9 @@ publishDir = "docs"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
+    showRecentWorks = false
     showDownloads = true
-    showClients = true
+    showClients = false
 
     footerEnableContact = false
     footerEnableFollowme = true
