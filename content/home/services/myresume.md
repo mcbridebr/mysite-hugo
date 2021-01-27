@@ -1,7 +1,5 @@
 ---
 title: "My Resume"
-type: "service"
-file: "http://www.gettemplate.com/downloads/initio.zip" 
 date: 2021-01-26T17:18:53-05:00
 draft: true
 weight: 1
