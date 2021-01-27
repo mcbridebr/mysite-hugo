@@ -1,7 +1,7 @@
 ---
 title: "Me At a Glance"
 date: 2021-01-26T17:22:35-05:00
-draft: true
+draft: false
 weight: 2
 ---
 

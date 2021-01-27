@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Resume on Brandon McBride</title>
+    <link>https://mythicalbeard.dev/home/resume/</link>
+    <description>Recent content in My Resume on Brandon McBride</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Jan 2021 18:10:02 -0500</lastBuildDate><atom:link href="https://mythicalbeard.dev/home/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Professional Resume</title>
+      <link>https://mythicalbeard.dev/home/resume/resume/</link>
+      <pubDate>Tue, 26 Jan 2021 18:10:12 -0500</pubDate>
+      
+      <guid>https://mythicalbeard.dev/home/resume/resume/</guid>
+      <description>If you are a potential employer or just interested in my qualifications, you can get a copy or my resume here. If you have any questions please email me!</description>
+    </item>
+    
+  </channel>
+</rss>

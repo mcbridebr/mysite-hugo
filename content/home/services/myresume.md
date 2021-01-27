@@ -1,7 +1,7 @@
 ---
 title: "My Resume"
 date: 2021-01-26T17:18:53-05:00
-draft: true
+draft: false
 weight: 1
 ---
 
