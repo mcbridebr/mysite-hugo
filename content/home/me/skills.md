@@ -25,27 +25,28 @@ Deployment and Automation Tools
 : Octopus Deploy
 
 ---
-Deployment and Automation Tools
+
+Cloud Platforms
 : Microsoft Azure
 : Amazon Web Services
 
 ---
-Deployment and Automation Tools
+Containerization
 : Docker
 : Kubernetes Container Engine
 
 ---
-Deployment and Automation Tools
+Database
 : Oracle DB
 : Microsoft SQL
 
 ---
-Deployment and Automation Tools
+Virtualization
 : Virtualbox
 : VMware / vSphere
 
 ---
-Deployment and Automation Tools
+Programming
 : Pipelines
 : Bash
 : Powershell
