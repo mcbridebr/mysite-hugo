@@ -36,7 +36,7 @@ Containerization
 : Kubernetes Container Engine
 
 ---
-Database
+Database Implementation/Administration
 : Oracle DB
 : Microsoft SQL
 
